@@ -1,10 +1,12 @@
 import React from 'react'
 import { FaGithubSquare, FaInstagramSquare, FaLinkedinIn } from "react-icons/fa";
 import "./footer.css";
+import ScrollToTop from "react-scroll-to-top";
 
 const Footer = () => {
     return (
         <div className='footer'>
+            <ScrollToTop smooth />
             <h2 className='footer-text'>Design by Sibasish | Made With ❤️</h2>
             <div className='footer-socials'>
                 <a href='https://github.com/sibasish934' className='github'>
