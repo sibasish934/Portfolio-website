@@ -1,0 +1,47 @@
+.footer{
+    height: 10vh;
+    margin-top: 12px;
+    display: flex;
+    background-color: rgb(227, 227, 227);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer-text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.footer-socials{
+    margin-top: 2px;
+}
+
+.footer-socials .github{
+    padding: 0px 7px;
+    color: #05a4d18e;
+    font-size: 18px;
+}
+
+.footer-socials .link{
+    padding: 0px 7px;
+    color: #05a4d18e;
+    font-size: 18px;
+}
+
+.footer-socials .insta{
+    padding: 0px 7px;
+    color: #05a4d18e;
+    font-size: 18px;
+}
+
+.footer-socials .insta:hover{
+    color: #8a3ab9;
+}
+
+.footer-socials .link:hover{
+    color: #0A66C2;
+}
+
+.footer-socials .github:hover{
+    color: black;
+}
