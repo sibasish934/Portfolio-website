@@ -45,7 +45,7 @@ const Home = () => {
             <button className='button btn-contact'><NavLink className="contact-btn" exact to="/Contact">Contact</NavLink></button>
           </div>
         </div>
-        <div className='image-1'><img src={vector} alt="loading.." /></div>
+        <div className='image'><img src={vector} alt="loading.." /></div>
       </div>
       <About />
       <Project />

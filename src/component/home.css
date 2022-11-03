@@ -103,16 +103,16 @@
     }
 }
 
-.image-1{
-    grid-column:3/4;
-    display: block;
+.image {
+    display: flex;
+    justify-content: center;
     align-items: center;
-    align-self: center;
     width: 40vw;
     height: 50vh;
 }
-.image-1 img{
-   width: 100%;
+
+.image img {
+    width: 100%;
 }
 
 .home-nav{
@@ -175,13 +175,13 @@
     .conatiner .home .titleTwo{
         font-size: 45px;
     }
-    .conatiner .image-1{
+    .conatiner .image{
         display: block;
         align-items: center;
         align-self: center;
-        width: 400px;
+        width: 300px;
     }
-    .conatiner .image-1 img{
+    .conatiner .image img{
         margin: auto;
     }
 
