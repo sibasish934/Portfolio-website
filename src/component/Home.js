@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { NavLink } from "react-router-dom"
+import { NavLink , Link } from "react-router-dom"
 import "./home.css";
 import Typewriter from 'typewriter-effect';
 import vector from "../images/Vect.jpg";
@@ -31,7 +31,7 @@ const Home = () => {
                 strings: [
                   "I'm a student.",
                   "I'm a Web Developer.",
-                  "I'm a Cloud Computing tyro.",
+                  "I'm a Cloud Practitioner.",
                   "I'm keen about new Technologies."
                 ],
                 autoStart: true,
@@ -41,7 +41,7 @@ const Home = () => {
             />
           </div>
           <div className='home-nav'>
-            <button className='button btn-resume'>Resume</button>
+            <button className='button btn-resume'><a href="https://drive.google.com/file/d/1rrMMp1R1IpO9dXwbx513_PFpnNjpnMWC/view?usp=share_link" download>Resume</a></button>
             <button className='button btn-contact'><NavLink className="contact-btn" exact to="/Contact">Contact</NavLink></button>
           </div>
         </div>

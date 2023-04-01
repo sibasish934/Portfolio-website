@@ -125,6 +125,10 @@
    background-color: #000;
    color: #fff;
 }
+.btn-resume a{
+    text-decoration: none;
+    color:#fff
+}
 .btn-contact{
     margin: 12px 12px;
     border-radius: 23px;
