@@ -129,7 +129,7 @@ const Project = () => {
                     target="_"
                     className="project-link"
                   >
-                    Read More
+                    Project-Link
                   </a>
                 </div>
               </div>
