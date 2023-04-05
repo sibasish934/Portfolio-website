@@ -26,7 +26,7 @@ const Project = () => {
     {
       img: news,
       name: "News_website",
-      projectLink: "https://github.com/sibasish934/news-website",
+      projectLink: "https://github.com/sibasish934/news_website",
       description:
         "This is a project with a objective to develop a basic news-website using HTML,CSS AND JS. This projects provides top 10 lastest news updates fetching it from google-news-api.",
       tags: "basic",
