@@ -41,7 +41,7 @@ const Home = () => {
             />
           </div>
           <div className='home-nav'>
-            <button className='button btn-resume'><a href="https://drive.google.com/file/d/1rrMMp1R1IpO9dXwbx513_PFpnNjpnMWC/view?usp=share_link" download>Resume</a></button>
+            <button className='button btn-resume'><a href="https://drive.google.com/file/d/153ypswmeDHmoClZjv35OdnrY1S3STriS/view?usp=sharing" download>Resume</a></button>
             <button className='button btn-contact'><NavLink className="contact-btn" exact to="/Contact">Contact</NavLink></button>
           </div>
         </div>
