@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { NavLink  } from "react-router-dom"
 import "./home.css";
 import Typewriter from 'typewriter-effect';
-import vector from "../images/Vect.jpg";
+import cloud from "../images/Cloud_hosting.gif";
 import About from "./About";
 import Project from "./Project";
 import Footer from './Footer';
@@ -45,7 +45,7 @@ const Home = () => {
             <button className='button btn-contact'><NavLink className="contact-btn" exact to="/Contact">Contact</NavLink></button>
           </div>
         </div>
-        <div className='image'><img src={vector} alt="loading.." /></div>
+        <div className='image'><img src={cloud} alt="loading.." /></div>
       </div>
       <About />
       <Project />
