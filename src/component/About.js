@@ -107,7 +107,7 @@ const About = () => {
       <div class="timeline">
         <div class="box leftbox">
           <div class="about-content">
-            <h2>2024</h2>
+            <h2></h2>
             <p> I'll be graduating from the Silicon Institute of Technology in 2024 and I'm in the CSE branch of my university.</p>
           </div>
         </div>
