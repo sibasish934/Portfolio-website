@@ -107,8 +107,8 @@ const About = () => {
       <div class="timeline">
         <div class="box leftbox">
           <div class="about-content">
-            <h2></h2>
-            <p> I'll be graduating from the Silicon Institute of Technology in 2024 and I'm in the CSE branch of my university.</p>
+            <h2>2024</h2>
+            <p> I graduated from Silicon Institute of Technology and joined Teleglobal International Private Limited as a Senior Cloud Engineer through a pre-placement offer (PPO) extended to me after my internship with the company.</p>
           </div>
         </div>
         <div class="box rightbox">
