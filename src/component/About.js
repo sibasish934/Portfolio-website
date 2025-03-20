@@ -114,7 +114,7 @@ const About = () => {
         <div class="box rightbox">
           <div class="about-content">
             <h2>2022</h2>
-            <p>Currently I am 3rd Year Of my college and my insterest include exploring new technology but more precisely in Cloud computing, Web-Development and Devops.</p>
+            <p>I am currently in my third year of college and have had the opportunity to work as a Cloud Engineer Intern at Teleglobal International Pvt Ltd, a Pune-based service-based company.</p>
           </div>
         </div>
         <div class="box leftbox">
